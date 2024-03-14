@@ -23,8 +23,12 @@ img{
     
 }
 
+marker{
+    color: #d2e1f5;
+}
+
 u{
-    background-color: aqua;
+    background-color:;
 }
 .logo{
     display: block;
