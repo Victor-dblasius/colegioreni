@@ -12,4 +12,6 @@ h4{
 }
 img{
     width: 40%;
+    display: block;
+    margin: auto;
 }
