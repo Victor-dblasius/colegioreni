@@ -19,11 +19,16 @@ h4{
 }
 
 img{
-    width: 40%;
-    display: block;
-    margin: auto;
+    
+    
 }
 
 u{
     background-color: aqua;
+}
+.logo{
+    display: block;
+    margin: auto;
+    width: 40%;
+
 }
