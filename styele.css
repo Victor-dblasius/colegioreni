@@ -1,17 +1,29 @@
+body{
+
+}
+
 h1{
 text-align: center;
 }
+
 h2{
     text-align: center;
 }
+
 h4{
     text-align: center;
 }
+
 .textocentro{
     
 }
+
 img{
     width: 40%;
     display: block;
     margin: auto;
+}
+
+u{
+    background-color: aqua;
 }
